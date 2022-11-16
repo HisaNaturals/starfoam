@@ -148,7 +148,7 @@ body{
 
     .navbar .menu-items li{
         margin-bottom: 1.8rem;
-        font-size: 1.1rem;
+        font-size: 1.3rem;
         font-weight: 500;
     }
 
@@ -299,7 +299,7 @@ button:hover{
     }
     .hero .text .details p{
     color: #fff;
-    font-size: 0.7rem;
+    font-size: 1.2rem;
     margin-top: 1rem;
 }
 .hero .text .details p img{
@@ -318,7 +318,7 @@ button{
 }
 @media (max-width:399px){
     .hero .text h1{
-        font-size: 1.3rem;
+        font-size: 1.8rem;
     }
 }
 .whatsapp{
